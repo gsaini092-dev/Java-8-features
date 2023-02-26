@@ -47,7 +47,7 @@ public class LambdaTest {
         for (Product p : productList) {
             System.out.println(p);
         }
-
+        System.out.println("I have added this line in master/main.");
     }
 }
 
