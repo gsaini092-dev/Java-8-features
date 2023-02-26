@@ -47,7 +47,7 @@ public class LambdaTest {
         for (Product p : productList) {
             System.out.println(p);
         }
-
+        System.out.println("I am in branch-A");
     }
 }
 
