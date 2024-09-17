@@ -48,7 +48,7 @@ public class LambdaTest {
             System.out.println(p);
         }
         System.out.println("I have added this line in master/main.");
-        System.out.println("I have added this line in master/main2.");
+        System.out.println("Updating this line into feature/changes-01.");
     }
 }
 
