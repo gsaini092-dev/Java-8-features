@@ -16,5 +16,7 @@ public class ForEachClass {
         studentNameList.add("Mabola");
 
         studentNameList.forEach(val -> System.out.println(val));
+
+        System.out.println("Adding line into feature/branchA");
     }
 }
